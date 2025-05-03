@@ -1,0 +1,37 @@
+
+h1{
+    text-align: center;
+    margin-top: 10px;
+}
+
+#main-nav{
+    text-align: center;
+    padding: 10px;
+    margin-inline: 5px;
+}
+
+.content-box{
+    background-color: cornsilk;
+    color: rgb(194, 49, 49);
+    padding: 10px;
+    margin: 5px;
+    margin-top: 5px;
+    border: 2px solid black;
+    font-family: fantasy;
+}
+
+.content-box p{
+    text-align: center;
+    line-height: 35px;
+}
+
+.high-contrast {
+    background-color: #000 !important;
+    color: #fff !important;
+}
+
+.high-contrast .content-box {
+    background-color: #111 !important;
+    color: #ff0 !important;
+    border-color: #fff !important;
+}
